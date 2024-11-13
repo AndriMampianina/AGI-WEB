@@ -1,0 +1,136 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+
+.partie1{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+   background-image: url(Image3.avif);
+}
+.right {
+    background-color: rgba(0, 0, 255, 0.404);
+    color: white;
+    width: 40%;
+    height: 45vh;
+    padding-top: 100px;
+    margin-left: 50%;
+}
+
+.partie2{
+    color: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    
+}
+.right1{
+    
+    width: 50%;
+    height: 100vh;
+    padding-top: 100px;
+    float: right;
+    text-align: center;
+}
+.left{
+    width: 50%;
+    height: 100vh;
+    float: left;
+    padding-left: 5%;
+}
+.container{
+    width: 100%;
+    height: 100vh;
+}
+#p1{
+    margin: 20px;
+    padding: 2dvh;
+    color: gray;
+}
+#p2{
+    margin: 20px;
+    padding: 2dvh;
+    color: gray;
+}
+#p3{
+    margin: 20px;
+    padding: 2dvh;
+    color: gray;
+}
+
+#button{
+    background: gray;
+    height: 50px;
+    width: 150px;
+    border-radius: 20px;
+}
+
+.partie3{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: rgba(0, 0, 139, 0.863);
+}
+
+.left1 h2{
+    text-align: center;
+    margin-left: 50%;
+    font-size: 0.9cm;
+    color: rgba(255, 255, 255, 0.877);
+    
+}
+.left1{
+    margin-bottom: 150px;
+    margin-left: 90px;
+    color: white;
+    font-weight: 300;
+
+}
+.left1 p {
+    text-align: left;
+    margin-top: 20px;
+    color: white;
+    font-weight: 300;
+
+}
+.left1 h4{
+    margin-top: 20px;
+    margin-left: -63%;
+}
+.left1 h5{
+    margin-left: -45%;
+
+}
+
+#button1{
+    background: gray;
+    height: 50px;
+    width: 150px;
+    border-radius: 20px;
+}
+
+.partie4{
+    text-align: center;
+    color: rgb(90, 92, 104);
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.partie4 h2{
+  color: rgba(0, 0, 0, 0.603);
+}
+.partie4 p{
+    text-align: center;
+    margin-top: 20px;
+}
