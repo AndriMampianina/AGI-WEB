@@ -20,3 +20,44 @@
     margin-top: 25px;
     margin-left: 100px;
 }
+.element{
+    width: 1400px;
+    height: 200px;
+    background: blue;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.element1{
+    border-right:solid white;
+    width: 250px;
+    height: 150px;
+}
+.element2{
+    border-right:solid white;
+    width: 250px;
+    height: 150px;
+}
+.element3{
+    border-right:solid white;
+    width: 250px;
+    height: 150px;
+}
+.element3 p{
+    font-size: 12px;
+}
+.element4{
+    width: 250px;
+    height: 150px;
+    padding-top: 40px;
+}
+.element4 picture i{
+    width: 50px;
+    font-size:25px;
+}
+.element5 {
+    margin-bottom: 250px;
+    background-color: blue;
+    display: flex;
+    padding-left: 450px;
+}
