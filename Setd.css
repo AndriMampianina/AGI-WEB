@@ -1,0 +1,17 @@
+.main {
+    width: 100%;
+    display: flex;
+    background-color: rgb(224, 222, 245);
+}
+.soratra {
+   width: 50%;
+   margin-top: 50px;
+}
+.contain {
+    width: 100%;
+    display: flex;
+
+}
+.obj {
+    text-align: center;
+}
